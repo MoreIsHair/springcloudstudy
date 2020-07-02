@@ -34,7 +34,7 @@
         <hutool.version>4.6.1</hutool.version>
         <commons-lang3.version>3.9</commons-lang3.version>
         <swagger.version>2.9.2</swagger.version>
-        <mysql.connector.version>8.0.13</mysql.connector.version>
+        <mysql.connector.version>8.0.16</mysql.connector.version>
 
         <skipTests>true</skipTests>
     </properties>
